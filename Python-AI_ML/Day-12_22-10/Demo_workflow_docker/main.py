@@ -1,0 +1,16 @@
+
+print("Welcome to demo of workflows. file successfully containerized through docker images.")                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
