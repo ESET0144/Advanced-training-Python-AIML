@@ -22,5 +22,6 @@ spec:
       containers:
       - name: python-app
         image: uday2ml/my-image
+        
         ports:
         - containerPort: 80
