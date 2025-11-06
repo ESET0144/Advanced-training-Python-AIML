@@ -1,0 +1,1 @@
+FastAPI iris model project by Dockerfile made production ready
