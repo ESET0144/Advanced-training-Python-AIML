@@ -1,2 +1,4 @@
+postgres:
+    port: "8888"
 project:
     name: apache-demo
