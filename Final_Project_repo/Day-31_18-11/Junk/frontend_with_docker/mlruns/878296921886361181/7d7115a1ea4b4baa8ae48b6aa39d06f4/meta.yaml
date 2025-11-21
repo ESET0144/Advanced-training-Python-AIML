@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/878296921886361181/7d7115a1ea4b4baa8ae48b6aa39d06f4/artifacts
+end_time: 1763489536569
+entry_point_name: ''
+experiment_id: '878296921886361181'
+lifecycle_stage: active
+run_id: 7d7115a1ea4b4baa8ae48b6aa39d06f4
+run_name: amusing-quail-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763489517337
+status: 3
+tags: []
+user_id: user
