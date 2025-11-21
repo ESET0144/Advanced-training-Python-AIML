@@ -1,0 +1,12 @@
+<data>
+    <row>
+        <name>John</name>
+        <age>30</age>
+        <city>New York</city>
+    </row>
+    <row>
+        <name>Anna</name>
+        <age>25</age>
+        <city>Paris</city>
+    </row>
+</data>

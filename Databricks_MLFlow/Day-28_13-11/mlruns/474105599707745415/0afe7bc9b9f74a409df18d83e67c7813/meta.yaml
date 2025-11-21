@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/474105599707745415/0afe7bc9b9f74a409df18d83e67c7813/artifacts
+end_time: 1763447060234
+entry_point_name: ''
+experiment_id: '474105599707745415'
+lifecycle_stage: active
+run_id: 0afe7bc9b9f74a409df18d83e67c7813
+run_name: amazing-ox-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763447040341
+status: 3
+tags: []
+user_id: user

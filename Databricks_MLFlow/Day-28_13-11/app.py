@@ -1,6 +1,6 @@
 import mlflow
 
-mlflow.set_tracking_uri("http://localhost:9000")
+mlflow.set_tracking_uri("http://localhost:8000")
 mlflow.set_experiment("my-first-experiment")
 
 
